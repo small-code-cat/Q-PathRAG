@@ -1,0 +1,1737 @@
+2025-03-31 14:48:59,896 - GoGRAG - INFO - Logger initialized for working directory: ../mix
+2025-03-31 14:48:59,897 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 14:48:59,912 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 14:48:59,927 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 14:49:00,169 - GoGRAG - INFO - Loaded graph from ../mix/graph_chunk_entity_relation.graphml with 7594 nodes, 654 edges
+2025-03-31 14:49:06,712 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 14:49:49,031 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:06:12,542 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:06:12,542 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:06:12,556 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:06:12,570 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:06:13,005 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:06:17,767 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:07:01,354 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:07:39,334 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:11:54,567 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:11:54,568 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:11:54,582 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:11:54,596 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:11:55,037 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:12:00,321 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:12:06,073 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:12:11,833 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:12:18,101 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:13:10,773 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:13:10,773 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:13:10,788 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:13:10,802 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:13:11,239 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:13:28,823 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:13:28,823 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:13:28,838 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:13:28,852 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:13:29,301 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:13:38,485 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:15:09,076 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:15:09,077 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:15:09,091 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:15:09,105 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:15:09,540 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:15:14,383 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:15:54,293 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:15:54,293 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:15:54,307 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:15:54,321 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:15:54,757 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:15:59,659 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:24:38,290 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:24:38,291 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:24:38,305 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:24:38,319 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:24:38,752 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:24:44,367 - GoGRAG - INFO - kw_prompt result:
+2025-03-31 17:26:04,670 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-03-31 17:26:04,671 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-03-31 17:26:04,685 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-03-31 17:26:04,699 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-03-31 17:26:05,135 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-03-31 17:26:13,228 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:15:29,087 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:15:29,087 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:15:29,101 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:15:29,115 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:15:29,553 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:15:33,937 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:30:39,181 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:30:39,182 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:30:39,196 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:30:39,211 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:30:39,655 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:30:44,819 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:31:51,567 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:31:51,567 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:31:51,581 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:31:51,596 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:31:52,034 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:31:57,112 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:34:00,945 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:34:00,946 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:34:00,960 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:34:00,974 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:34:01,413 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:34:06,172 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:37:25,026 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:37:25,026 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:37:25,041 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:37:25,056 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:37:25,504 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:37:29,942 - GoGRAG - INFO - kw_prompt result:
+2025-04-01 08:39:25,056 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-01 08:39:25,056 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-01 08:39:25,070 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-01 08:39:25,084 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-01 08:39:25,518 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-01 08:39:30,502 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 09:14:21,000 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 09:14:21,001 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 09:14:21,016 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 09:14:21,030 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 09:14:21,470 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 09:14:25,943 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:05:11,839 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:05:11,839 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:05:11,854 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:05:11,868 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:05:12,307 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:05:17,070 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:07:18,364 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:07:18,365 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:07:18,379 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:07:18,394 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:07:18,833 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:07:23,141 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:15:35,704 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:15:35,704 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:15:35,718 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:15:35,733 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:15:36,170 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:17:47,317 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:17:47,317 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:17:47,332 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:17:47,346 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:17:47,781 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:17:52,095 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:23:04,329 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:23:04,329 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:23:04,343 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:23:04,358 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:23:04,795 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:23:09,013 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:28:27,120 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:28:27,121 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:28:27,135 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:28:27,149 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:28:27,590 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:28:32,026 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:35:58,712 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:35:58,712 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:35:58,727 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:35:58,742 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:35:59,184 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:36:03,364 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:38:30,649 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:38:30,649 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:38:30,663 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:38:30,678 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:38:31,117 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:38:35,332 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 10:52:09,591 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 10:52:09,591 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 10:52:09,606 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 10:52:09,620 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 10:52:10,057 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 10:52:14,623 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:05:30,039 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:05:30,039 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 11:05:30,054 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:05:30,069 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:05:30,504 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:05:35,347 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:06:10,497 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,497 - GoGRAG - ERROR - film.narrative_techniques.cinematic_devices	visual_storytelling
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - film.filmmaking_styles.cinematography	impact_on_audience
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - film.cultural_context.representation	of_society
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - film.directors_intentions.theme	exploration_of_identity
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - film.storytelling_methods.linear_narrative	versus_nonlinear_narrative
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,498 - GoGRAG - ERROR - film.historical_context.social_changes	influencing_filmmaking
+2025-04-02 11:06:10,499 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,499 - GoGRAG - ERROR - film.narrative_techniques.character_development	role_in_storytelling
+2025-04-02 11:06:10,499 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:06:10,499 - GoGRAG - ERROR - film.filmmaking_styles.genres	and_their_characteristics
+2025-04-02 11:07:13,417 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 11:07:14,254 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-02 11:09:11,344 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:09:11,345 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 11:09:11,359 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:09:11,374 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:09:11,819 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:09:16,127 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:13:57,027 - GoGRAG - INFO - Local query uses 40 entites, 17 relations, 4 text units
+2025-04-02 11:13:57,972 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 11:14:13,561 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:14:13,561 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 11:14:13,576 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:14:13,591 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:14:14,027 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:14:57,758 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:14:57,759 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 11:14:57,773 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:14:57,788 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:14:58,234 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:15:38,555 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:15:38,555 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-02 11:15:38,570 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:15:38,585 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:15:39,026 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:15:43,260 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:24:04,509 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 11:24:05,276 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 11:26:52,172 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:26:52,172 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 11:26:52,186 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:26:52,201 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:26:52,425 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:26:57,017 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:27:25,327 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 4 text units
+2025-04-02 11:27:25,988 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 11:27:38,463 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:28:07,287 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 4 text units
+2025-04-02 11:28:08,180 - GoGRAG - INFO - Global query uses 55 entites, 40 relations, 3 text units
+2025-04-02 11:28:22,300 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:28:51,459 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,459 - GoGRAG - ERROR - Film genres	popularity.over_time	Action films	1980s
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Film genres	popularity.over_time	ROMantic Comedies	1990s
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Film genres	popularity.over_time	Horror films	2000s
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Box office trends	by_genre.Action films	highest_revenue	2010s
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,460 - GoGRAG - ERROR - Box office trends	by_genre.Drama films	highest_revenue	1970s
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Genre popularity changes	over_time.Sci-Fi films	decline	2020s
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Genre popularity changes	over_timeAnimated films	rise	2000s
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Decades	film_genre_trends	1980s	Action films
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,461 - GoGRAG - ERROR - Decades	film_genre_trends	1990s	ROMantic Comedies
+2025-04-02 11:28:51,462 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:28:51,462 - GoGRAG - ERROR - Decades	film_genre_trends	2000s	Horror films
+2025-04-02 11:28:56,722 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 11:28:57,611 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-02 11:29:15,207 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:29:51,585 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 11:29:52,404 - GoGRAG - INFO - Global query uses 46 entites, 40 relations, 3 text units
+2025-04-02 11:30:19,982 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:31:52,378 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:31:52,379 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 11:31:52,394 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:31:52,409 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:31:52,843 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:31:57,467 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:33:09,644 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:33:09,644 - GoGRAG - ERROR - cinematography	enhances	viewer_perception	of_societal_issues  
+2025-04-02 11:33:09,645 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:33:09,645 - GoGRAG - ERROR - social_commentary	challenges_existing_norms_and_fosters_discussion  
+2025-04-02 11:33:09,645 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:33:09,645 - GoGRAG - ERROR - themes	unite_characters_and_plot_with_societal_context  
+2025-04-02 11:33:47,130 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 11:33:47,952 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 11:34:26,443 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 11:34:26,443 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 11:34:26,457 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 11:34:26,472 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 11:34:26,694 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 11:34:31,163 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:35:10,703 - GoGRAG - INFO - Local query uses 40 entites, 15 relations, 5 text units
+2025-04-02 11:35:11,461 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 4 text units
+2025-04-02 11:35:26,119 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:35:56,908 - GoGRAG - INFO - Local query uses 40 entites, 21 relations, 5 text units
+2025-04-02 11:35:57,655 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 11:36:12,644 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:36:41,290 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 4 text units
+2025-04-02 11:36:42,192 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 11:36:53,889 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:37:20,698 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:37:20,698 - GoGRAG - ERROR - awards.performance.evaluations	Feminist portrayals in films	correlation.impact	
+2025-04-02 11:37:20,698 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:37:20,698 - GoGRAG - ERROR - Feminist portrayals in films	significance.cultural_representation	awards.recognition	
+2025-04-02 11:37:20,699 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:37:20,699 - GoGRAG - ERROR - Feminist portrayals in films	narrative.representation	awards.recognition	
+2025-04-02 11:37:20,699 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:37:20,699 - GoGRAG - ERROR - awards.recognition	Feminist portrayals in films	positive.assessment	
+2025-04-02 11:37:25,412 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 11:37:26,098 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-02 11:37:46,811 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:38:21,014 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 11:38:21,912 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 4 text units
+2025-04-02 11:38:34,756 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:39:08,018 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:39:08,018 - GoGRAG - ERROR - Film music	composition.technique	use	of_orchestration  
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Film music	composition.technique	use	of_theme_variation  
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Film music	composition.trend	integration	of_electronic_elements  
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:39:08,019 - GoGRAG - ERROR - Film music	composition.trend_cross-genre_fusion  
+2025-04-02 11:39:12,929 - GoGRAG - INFO - Local query uses 40 entites, 18 relations, 3 text units
+2025-04-02 11:39:13,620 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-02 11:39:28,467 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:40:09,522 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 3 text units
+2025-04-02 11:40:10,232 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-02 11:40:23,443 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:40:48,536 - GoGRAG - INFO - Local query uses 40 entites, 16 relations, 4 text units
+2025-04-02 11:40:49,276 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 11:41:05,062 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:41:34,672 - GoGRAG - INFO - Local query uses 40 entites, 21 relations, 4 text units
+2025-04-02 11:41:35,438 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-02 11:41:47,827 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:42:11,015 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 11:42:11,015 - GoGRAG - ERROR - Soundtrack elements	convey.emotional transformations in films  
+2025-04-02 11:42:15,939 - GoGRAG - INFO - Local query uses 40 entites, 20 relations, 3 text units
+2025-04-02 11:42:16,741 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 11:42:35,778 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:43:08,435 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:43:08,436 - GoGRAG - ERROR - Narratives	in films	influence	audience interpretation
+2025-04-02 11:43:08,436 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:43:08,436 - GoGRAG - ERROR - Critical reviews	provide	context	to	films
+2025-04-02 11:43:08,436 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 11:43:08,436 - GoGRAG - ERROR - Narratives	film	visually represented	in	critical reviews
+2025-04-02 11:43:13,051 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 5 text units
+2025-04-02 11:43:13,896 - GoGRAG - INFO - Global query uses 48 entites, 40 relations, 3 text units
+2025-04-02 11:43:27,859 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:44:00,958 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 3 text units
+2025-04-02 11:44:01,721 - GoGRAG - INFO - Global query uses 46 entites, 40 relations, 3 text units
+2025-04-02 11:44:15,400 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:44:47,991 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 3 text units
+2025-04-02 11:44:48,645 - GoGRAG - INFO - Global query uses 39 entites, 40 relations, 4 text units
+2025-04-02 11:45:01,003 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:45:38,857 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 11:45:39,742 - GoGRAG - INFO - Global query uses 47 entites, 40 relations, 3 text units
+2025-04-02 11:45:55,075 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 11:46:20,597 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 5 text units
+2025-04-02 11:46:21,332 - GoGRAG - INFO - Global query uses 42 entites, 40 relations, 3 text units
+2025-04-02 19:54:07,227 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 19:54:07,228 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 19:54:07,241 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 19:54:07,255 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 19:54:07,483 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 19:55:40,159 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-02 19:55:40,160 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-02 19:55:40,174 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-02 19:55:40,188 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-02 19:55:40,409 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-02 19:55:45,206 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:56:16,378 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 19:56:16,378 - GoGRAG - ERROR - films	influence	time_period	film narratives  
+2025-04-02 19:56:16,378 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 19:56:16,378 - GoGRAG - ERROR - film narratives	reflects	time_period	societal issues  
+2025-04-02 19:56:21,650 - GoGRAG - INFO - Local query uses 40 entites, 15 relations, 4 text units
+2025-04-02 19:56:22,339 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 19:56:35,030 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:57:04,702 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 5 text units
+2025-04-02 19:57:05,367 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 19:57:22,778 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:57:45,626 - GoGRAG - INFO - Local query uses 40 entites, 1 relations, 3 text units
+2025-04-02 19:57:46,285 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 19:57:59,084 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:58:14,553 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 3 text units
+2025-04-02 19:58:15,254 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 19:58:32,475 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:59:02,603 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 19:59:03,350 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 19:59:16,635 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 19:59:51,169 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 3 text units
+2025-04-02 19:59:51,900 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 20:00:08,562 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:00:41,743 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 20:00:42,773 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 20:01:00,420 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:01:27,919 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:01:27,919 - GoGRAG - ERROR - Original works.has.narrative_structure	Narrative structure in original work
+2025-04-02 20:01:27,919 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:01:27,920 - GoGRAG - ERROR - Original works.has.themes	Themes in original work
+2025-04-02 20:01:33,065 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 5 text units
+2025-04-02 20:01:33,835 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 20:01:53,129 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:02:26,897 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:02:27,581 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 20:02:48,409 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:03:26,787 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 5 text units
+2025-04-02 20:03:27,581 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:03:46,086 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:04:18,711 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 7 text units
+2025-04-02 20:04:19,437 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:04:32,664 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:04:57,133 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 20:04:57,896 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-02 20:05:14,782 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:05:40,984 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 5 text units
+2025-04-02 20:05:41,849 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:05:59,100 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:06:26,776 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 3 text units
+2025-04-02 20:06:27,460 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 20:06:43,651 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:07:18,545 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 20:07:19,376 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:07:33,801 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:08:05,020 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 20:08:05,021 - GoGRAG - ERROR - viewer perceptions	shape	the reception of	literature based on historical events in films  
+2025-04-02 20:08:10,166 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 4 text units
+2025-04-02 20:08:11,033 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-02 20:08:29,218 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:09:02,494 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 5 text units
+2025-04-02 20:09:03,258 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:09:17,293 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:09:52,152 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 4 text units
+2025-04-02 20:09:53,052 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 4 text units
+2025-04-02 20:10:06,696 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:10:32,118 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:10:32,918 - GoGRAG - INFO - Global query uses 52 entites, 40 relations, 3 text units
+2025-04-02 20:10:47,935 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:11:17,897 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 20:11:17,897 - GoGRAG - ERROR - Narrative techniques	adapt	in response to	historical narrative forms  
+2025-04-02 20:11:28,535 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 20:11:29,274 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:11:43,188 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:12:12,397 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 6 text units
+2025-04-02 20:12:13,153 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 5 text units
+2025-04-02 20:12:25,698 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:12:52,347 - GoGRAG - INFO - Local query uses 40 entites, 4 relations, 3 text units
+2025-04-02 20:12:53,099 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:13:16,472 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:13:56,370 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 3 text units
+2025-04-02 20:13:57,133 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 5 text units
+2025-04-02 20:14:10,424 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:14:37,042 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 3 text units
+2025-04-02 20:14:37,727 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 20:14:50,515 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:15:15,620 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 1)
+
+2025-04-02 20:15:15,620 - GoGRAG - ERROR - Literature influences audience engagement with identity themes through character development.
+2025-04-02 20:15:15,621 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 1)
+
+2025-04-02 20:15:15,621 - GoGRAG - ERROR - Film influences audience engagement with identity themes through cultural representation.
+2025-04-02 20:15:15,621 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 1)
+
+2025-04-02 20:15:15,621 - GoGRAG - ERROR - Narrative techniques impact audience engagement with identity themes in literature and film.
+2025-04-02 20:15:15,622 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 1)
+
+2025-04-02 20:15:15,622 - GoGRAG - ERROR - Character development enhances cultural representation in both literature and film.
+2025-04-02 20:15:15,622 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 1)
+
+2025-04-02 20:15:15,622 - GoGRAG - ERROR - Cultural representation shapes audience perceptions of identity themes in narrative storytelling.
+2025-04-02 20:15:20,828 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 4 text units
+2025-04-02 20:15:21,517 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 20:15:39,136 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:16:03,399 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 4 text units
+2025-04-02 20:16:04,162 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:16:21,703 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:16:49,601 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 3 text units
+2025-04-02 20:16:50,590 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 20:17:24,974 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:17:57,908 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 20:17:58,644 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-02 20:18:11,713 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:18:32,734 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:18:32,734 - GoGRAG - ERROR - humor.explores.character_representation.challenges	societal_norms
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - satire.utilizes.stereotypes.reinforces	societal_norms
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - humor.and.satire.reflects.societal_norms	affects.character_representation
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:18:32,735 - GoGRAG - ERROR - character_representation.in.humor.creates.stereotypes	influences.audience.perception
+2025-04-02 20:18:32,736 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:18:32,736 - GoGRAG - ERROR - satirical.works.use.character_representation	to.highlight.norms
+2025-04-02 20:18:37,657 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 3 text units
+2025-04-02 20:18:38,603 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 20:19:00,600 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:19:33,428 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 4 text units
+2025-04-02 20:19:34,194 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 20:19:48,654 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:20:23,181 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 3 text units
+2025-04-02 20:20:23,945 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:20:38,273 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:21:17,788 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 20:21:18,678 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 20:21:40,206 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:22:10,088 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 5 text units
+2025-04-02 20:22:10,819 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:22:25,703 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:22:49,643 - GoGRAG - INFO - Local query uses 40 entites, 4 relations, 5 text units
+2025-04-02 20:22:50,326 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-02 20:23:04,036 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:23:38,749 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:23:39,450 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:23:53,333 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:24:23,729 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 20:24:24,497 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 4 text units
+2025-04-02 20:24:39,577 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:25:00,026 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:25:00,026 - GoGRAG - ERROR - Film themes	international co-productions.reflect  
+2025-04-02 20:25:00,026 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:25:00,027 - GoGRAG - ERROR - Narratives	international co-productions.shape  
+2025-04-02 20:25:04,805 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 20:25:05,582 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:25:18,747 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:25:53,186 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 4 text units
+2025-04-02 20:25:53,923 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-02 20:26:06,331 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:26:32,055 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:26:32,803 - GoGRAG - INFO - Global query uses 72 entites, 40 relations, 4 text units
+2025-04-02 20:26:47,963 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:27:17,413 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 3 text units
+2025-04-02 20:27:18,188 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 4 text units
+2025-04-02 20:27:33,157 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:28:02,840 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 3 text units
+2025-04-02 20:28:03,755 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 5 text units
+2025-04-02 20:28:17,282 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:28:45,208 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 5 text units
+2025-04-02 20:28:45,886 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 4 text units
+2025-04-02 20:29:03,509 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:29:31,326 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:29:31,327 - GoGRAG - ERROR - documentary_film.connects	cultural influence and social justice  
+2025-04-02 20:29:36,025 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 4 text units
+2025-04-02 20:29:36,869 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:29:58,483 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:30:18,901 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 20:30:18,901 - GoGRAG - ERROR - Audience feedback on films	with marginalized voices	reflects societal.views	on inclusivity  
+2025-04-02 20:30:23,641 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 3 text units
+2025-04-02 20:30:24,496 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 20:30:37,714 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:31:08,319 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:31:09,205 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 4 text units
+2025-04-02 20:31:22,580 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:31:48,659 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:31:48,659 - GoGRAG - ERROR - aesthetic_choice.influences	themes_in_films  
+2025-04-02 20:31:53,274 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 5 text units
+2025-04-02 20:31:54,032 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-02 20:32:13,468 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:32:42,011 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 20:32:42,845 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-02 20:32:55,442 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:33:40,667 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 4 text units
+2025-04-02 20:33:41,482 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:33:56,041 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:34:40,623 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 3 text units
+2025-04-02 20:34:41,532 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:34:55,989 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:35:26,868 - GoGRAG - INFO - Local query uses 40 entites, 19 relations, 4 text units
+2025-04-02 20:35:27,556 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 20:35:42,267 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:36:11,744 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 4 text units
+2025-04-02 20:36:12,430 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 20:36:27,838 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:36:59,095 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 3 text units
+2025-04-02 20:36:59,880 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:37:16,610 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:37:48,160 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: too many values to unpack (expected 3)
+
+2025-04-02 20:37:48,160 - GoGRAG - ERROR - Filmmaking tools	aid	in	interactive storytelling
+2025-04-02 20:38:02,856 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 5 text units
+2025-04-02 20:38:03,595 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-02 20:38:16,028 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:38:58,205 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 3 text units
+2025-04-02 20:38:59,102 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:39:22,067 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:39:36,592 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 20:39:37,255 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 5 text units
+2025-04-02 20:39:52,500 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:40:36,356 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 20:40:37,064 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-02 20:40:59,735 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:41:34,105 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 20:41:34,828 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:41:49,003 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:42:18,877 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 20:42:19,788 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 20:42:34,303 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:43:03,020 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 3 text units
+2025-04-02 20:43:03,795 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 20:43:16,528 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:43:48,665 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 4 text units
+2025-04-02 20:43:49,338 - GoGRAG - INFO - Global query uses 55 entites, 40 relations, 3 text units
+2025-04-02 20:44:02,819 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:44:33,719 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 3 text units
+2025-04-02 20:44:34,475 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-02 20:44:48,586 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:45:02,484 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 3 text units
+2025-04-02 20:45:03,188 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-02 20:45:16,842 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:45:46,541 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 3 text units
+2025-04-02 20:45:47,625 - GoGRAG - INFO - Global query uses 46 entites, 40 relations, 4 text units
+2025-04-02 20:46:02,336 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:46:29,446 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 3 text units
+2025-04-02 20:46:30,198 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 20:46:43,422 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:47:15,428 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 20:47:16,110 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-02 20:47:31,344 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:48:05,990 - GoGRAG - INFO - Local query uses 40 entites, 22 relations, 4 text units
+2025-04-02 20:48:06,786 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 20:48:22,093 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:48:51,836 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 20:48:52,580 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 20:49:09,225 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:49:39,275 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 4 text units
+2025-04-02 20:49:40,029 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 5 text units
+2025-04-02 20:49:51,916 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:50:07,794 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 3 text units
+2025-04-02 20:50:08,598 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-02 20:50:23,555 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:50:49,104 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:50:49,927 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:51:07,216 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:52:07,987 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 20:52:08,750 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:52:22,453 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:52:52,887 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 3 text units
+2025-04-02 20:52:53,658 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 20:53:10,900 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:53:47,012 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 7 text units
+2025-04-02 20:53:47,784 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 20:54:05,299 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:54:44,805 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 20:54:45,687 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-02 20:54:58,868 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:55:30,583 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:55:30,584 - GoGRAG - ERROR - Filmmaking	art.involves Editing  
+2025-04-02 20:55:30,584 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 20:55:30,584 - GoGRAG - ERROR - All aspects contribute to	Filmmaking appreciation  
+2025-04-02 20:55:36,699 - GoGRAG - INFO - Local query uses 40 entites, 14 relations, 4 text units
+2025-04-02 20:55:37,728 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-02 20:55:52,383 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:56:15,742 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 4 text units
+2025-04-02 20:56:16,533 - GoGRAG - INFO - Global query uses 52 entites, 40 relations, 3 text units
+2025-04-02 20:56:31,260 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:57:03,749 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 20:57:04,606 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 4 text units
+2025-04-02 20:57:20,016 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:57:51,585 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 5 text units
+2025-04-02 20:57:52,337 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 4 text units
+2025-04-02 20:58:06,018 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:58:44,935 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 4 text units
+2025-04-02 20:58:45,727 - GoGRAG - INFO - Global query uses 49 entites, 40 relations, 4 text units
+2025-04-02 20:58:58,829 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 20:59:13,591 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 20:59:14,709 - GoGRAG - INFO - Global query uses 47 entites, 40 relations, 3 text units
+2025-04-02 20:59:31,732 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:00:02,720 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 21:00:03,477 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-02 21:00:34,663 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:01:01,234 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 4 text units
+2025-04-02 21:01:01,978 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 4 text units
+2025-04-02 21:01:18,094 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:01:49,047 - GoGRAG - INFO - Local query uses 40 entites, 15 relations, 4 text units
+2025-04-02 21:01:49,738 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-02 21:02:05,331 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:02:40,953 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 5 text units
+2025-04-02 21:02:41,844 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-02 21:02:56,692 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:03:26,374 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 5 text units
+2025-04-02 21:03:27,105 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 21:03:41,837 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:04:18,209 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 3 text units
+2025-04-02 21:04:18,969 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-02 21:04:37,014 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:05:11,996 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 21:05:12,825 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-02 21:05:26,959 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:05:55,082 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 4 text units
+2025-04-02 21:05:56,119 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-02 21:06:10,957 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:06:44,470 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 21:06:45,327 - GoGRAG - INFO - Global query uses 73 entites, 40 relations, 3 text units
+2025-04-02 21:07:01,703 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:07:38,452 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 5 text units
+2025-04-02 21:07:39,308 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 4 text units
+2025-04-02 21:07:55,239 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:08:32,642 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 3 text units
+2025-04-02 21:08:33,612 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-02 21:08:47,051 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:09:18,188 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 3 text units
+2025-04-02 21:09:19,030 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 4 text units
+2025-04-02 21:09:35,562 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:10:09,720 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 3 text units
+2025-04-02 21:10:10,531 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-02 21:10:23,353 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:11:00,487 - GoGRAG - INFO - Local query uses 40 entites, 11 relations, 4 text units
+2025-04-02 21:11:01,195 - GoGRAG - INFO - Global query uses 48 entites, 40 relations, 3 text units
+2025-04-02 21:11:17,918 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:11:51,011 - GoGRAG - INFO - Local query uses 40 entites, 5 relations, 3 text units
+2025-04-02 21:11:51,809 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-02 21:12:07,389 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:12:37,083 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 4 text units
+2025-04-02 21:12:37,907 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-02 21:12:51,330 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:13:27,165 - GoGRAG - INFO - Local query uses 40 entites, 8 relations, 4 text units
+2025-04-02 21:13:27,914 - GoGRAG - INFO - Global query uses 52 entites, 40 relations, 3 text units
+2025-04-02 21:13:42,304 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:14:20,552 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 21:14:21,272 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-02 21:14:34,486 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:15:11,143 - GoGRAG - INFO - Local query uses 40 entites, 7 relations, 4 text units
+2025-04-02 21:15:11,812 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-02 21:15:27,649 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:16:01,336 - GoGRAG - INFO - Local query uses 40 entites, 6 relations, 3 text units
+2025-04-02 21:16:02,093 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-02 21:16:16,760 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:16:31,238 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 21:16:32,021 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-02 21:16:47,650 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:17:15,846 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 21:17:15,846 - GoGRAG - ERROR - Viewer engagement affects	movie box office performance
+2025-04-02 21:17:15,847 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 21:17:15,847 - GoGRAG - ERROR - Descriptive language enhances	the quality of film critiques
+2025-04-02 21:17:15,847 - GoGRAG - ERROR - Traceback (most recent call last):
+  File "/mnt/data/xkj/PycharmProjects/PathRAG-main/GoGRAG/environment.py", line 132, in generate
+    h, r, t = [item.strip() for item in line.split(sep)]
+ValueError: not enough values to unpack (expected 3, got 2)
+
+2025-04-02 21:17:15,847 - GoGRAG - ERROR - Film critiques impact	viewers' decision to watch movies
+2025-04-02 21:17:20,475 - GoGRAG - INFO - Local query uses 40 entites, 12 relations, 4 text units
+2025-04-02 21:17:21,242 - GoGRAG - INFO - Global query uses 49 entites, 40 relations, 3 text units
+2025-04-02 21:17:34,024 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:17:49,124 - GoGRAG - INFO - Local query uses 40 entites, 9 relations, 3 text units
+2025-04-02 21:17:49,877 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-02 21:18:02,850 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:18:18,282 - GoGRAG - INFO - Local query uses 40 entites, 13 relations, 3 text units
+2025-04-02 21:18:19,103 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-02 21:18:33,499 - GoGRAG - INFO - kw_prompt result:
+2025-04-02 21:19:07,018 - GoGRAG - INFO - Local query uses 40 entites, 10 relations, 4 text units
+2025-04-02 21:19:07,680 - GoGRAG - INFO - Global query uses 51 entites, 40 relations, 4 text units
+2025-04-03 19:36:03,902 - GoGRAG - INFO - Logger initialized for working directory: ../dicken1/dickens_mix
+2025-04-03 19:36:03,911 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-03 19:36:03,952 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-03 19:36:03,993 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-03 19:36:04,441 - GoGRAG - INFO - Loaded graph from ../dicken1/dickens_mix/graph_chunk_entity_relation.graphml with 10657 nodes, 5051 edges
+2025-04-03 19:36:47,151 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:27:40,882 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:27:41,162 - GoGRAG - INFO - Load KV llm_response_cache with 2 data
+2025-04-06 10:27:41,172 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:27:41,181 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:27:41,809 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:27:46,700 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:28:55,666 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:28:55,666 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:28:55,680 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:28:55,694 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:28:56,310 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:29:00,749 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:35:24,804 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:35:24,804 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:35:24,818 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:35:24,832 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:35:25,447 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:36:52,801 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:36:52,802 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:36:52,815 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:36:52,830 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:36:53,453 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:36:58,069 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:37:44,761 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:37:44,762 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:37:44,776 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:37:44,790 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:37:45,407 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:37:50,625 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:51:01,275 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:51:01,276 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:51:01,289 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:51:01,303 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:51:01,917 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:51:07,217 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:51:13,862 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:51:19,419 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:51:34,959 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:51:34,959 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:51:34,973 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:51:34,987 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:51:35,611 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:51:40,115 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:52:14,443 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:52:14,443 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:52:14,457 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:52:14,471 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:52:15,082 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:52:19,639 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:53:11,054 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:53:11,054 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:53:11,068 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:53:11,083 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:53:11,704 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:53:45,038 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:53:45,038 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:53:45,052 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:53:45,065 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:53:45,679 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:53:50,156 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:54:45,124 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 10:55:07,872 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 10:55:07,872 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 10:55:07,886 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 10:55:07,900 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 10:55:08,514 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 10:55:12,967 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 11:01:07,590 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 11:01:07,591 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 11:01:07,605 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 11:01:07,619 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 11:01:08,230 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 11:01:13,641 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 11:03:58,979 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 11:03:58,980 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 11:03:58,993 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 11:03:59,008 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 11:03:59,624 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 11:04:04,740 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 14:51:53,332 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 14:51:53,333 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 14:51:53,346 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 14:51:53,360 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 14:51:54,027 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 14:51:58,804 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 14:56:01,765 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 14:56:01,766 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 14:56:01,779 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 14:56:01,794 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 14:56:02,464 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 14:56:06,857 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:01:27,483 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:01:27,483 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:01:27,497 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:01:27,511 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:01:28,199 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:01:32,639 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:04:46,848 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:04:46,849 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:04:46,863 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:04:46,878 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:04:47,554 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:04:52,429 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:08:31,074 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:08:31,074 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:08:31,088 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:08:31,103 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:08:31,779 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:08:36,504 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:16:10,209 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:16:10,210 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:16:10,225 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:16:10,239 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:16:10,906 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:16:15,546 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:21:51,374 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:21:51,374 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:21:51,389 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:21:51,403 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:21:52,075 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:21:56,607 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:24:18,328 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:24:18,329 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:24:18,343 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:24:18,358 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:24:19,028 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:24:23,497 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:47:27,113 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:47:27,114 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:47:27,128 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:47:27,142 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:47:27,807 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:47:32,477 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:50:14,351 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:50:14,351 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:50:14,366 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:50:14,381 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:51:08,948 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:51:08,949 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:51:08,962 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:51:08,976 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:51:09,654 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:51:14,004 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 15:57:55,886 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 15:57:55,886 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 15:57:55,900 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 15:57:55,915 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 15:57:56,582 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 15:58:01,121 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 16:00:36,235 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 16:00:36,236 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 16:00:36,250 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 16:00:36,265 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 16:00:36,935 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 16:00:41,481 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 16:07:39,024 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 16:07:39,025 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 16:07:39,039 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 16:07:39,054 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 16:07:39,726 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 16:07:44,417 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 16:13:57,298 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 16:13:57,298 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 16:13:57,312 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 16:13:57,326 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 16:13:57,996 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 16:14:03,746 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 17:36:04,889 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 17:36:04,889 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 17:36:04,903 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 17:36:04,918 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 17:36:05,593 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 17:36:10,492 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 17:36:44,339 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 17:37:28,360 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 17:37:28,361 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 17:37:28,375 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 17:37:28,389 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 17:37:29,070 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 17:37:34,430 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 17:38:37,217 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 17:38:37,218 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 17:38:37,232 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 17:38:37,247 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 17:38:37,915 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 17:38:42,425 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 17:49:44,715 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 17:49:44,715 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 17:49:44,730 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 17:49:44,745 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 17:49:45,418 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 17:49:49,969 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 18:05:54,349 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 18:05:54,349 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 18:05:54,363 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 18:05:54,378 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 18:05:55,047 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 18:05:59,616 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 18:10:34,741 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 18:10:34,742 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 18:10:34,756 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 18:10:34,770 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 18:10:35,443 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 18:10:39,834 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 18:12:12,235 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 18:12:12,235 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 18:12:12,250 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 18:12:12,264 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 18:12:12,938 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 18:12:17,269 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 18:16:07,245 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 18:16:07,245 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 18:16:07,259 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 18:16:07,274 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 18:16:07,965 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 18:16:12,877 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 18:21:43,923 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 18:21:43,923 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 18:21:43,937 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 18:21:43,952 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 18:21:44,628 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 18:21:49,149 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:44:50,870 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 19:44:50,870 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 19:44:50,885 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 19:44:50,900 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 19:44:51,577 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 19:44:56,129 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:45:26,145 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:45:48,340 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 19:45:48,341 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 19:45:48,355 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 19:45:48,370 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 19:45:49,038 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 19:45:53,331 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:46:40,943 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:46:48,619 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 19:46:48,619 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 19:46:48,633 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 19:46:48,648 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 19:46:49,323 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 19:46:54,130 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:49:19,017 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 19:49:19,018 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 19:49:19,032 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 19:49:19,046 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 19:49:19,712 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 19:49:24,129 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 19:52:09,922 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 19:52:09,923 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 19:52:09,937 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 19:52:09,952 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 19:52:10,619 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 19:52:15,144 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 20:15:18,646 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 20:15:18,646 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 20:15:18,658 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 20:15:18,670 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 20:15:19,253 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 20:15:23,729 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 20:18:56,413 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 20:18:56,413 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 20:18:56,427 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 20:18:56,441 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 20:18:57,027 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 20:19:01,450 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 20:20:18,304 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 20:20:18,304 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 20:20:18,317 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 20:20:18,330 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 20:20:18,918 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 20:20:23,424 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:20:57,009 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:20:57,010 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:20:57,023 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:20:57,038 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:20:57,628 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:21:02,448 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:22:41,331 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:23:27,323 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:23:27,324 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:23:27,337 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:23:27,352 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:23:27,942 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:23:32,383 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:24:04,090 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:26:41,148 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:26:41,149 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:26:41,162 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:26:41,176 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:26:41,761 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:26:46,774 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:31:44,067 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:31:44,068 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:31:44,081 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:31:44,093 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:31:44,679 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:31:49,206 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:38:13,569 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:38:13,569 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:38:13,583 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:38:13,599 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:38:14,190 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:38:18,695 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:40:35,862 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:40:35,862 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:40:35,875 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:40:35,887 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:40:36,473 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:40:40,877 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:42:06,820 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:42:06,820 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:42:06,833 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:42:06,848 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:42:07,432 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:42:12,151 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:43:12,793 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:43:12,793 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:43:12,807 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:43:12,819 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:43:13,407 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:43:17,901 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:45:10,917 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:45:10,918 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:45:10,931 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:45:10,944 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:45:11,543 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:45:16,097 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 21:54:27,297 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 21:54:27,297 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 21:54:27,311 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 21:54:27,323 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 21:54:27,916 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 21:54:32,559 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:03:39,523 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:03:39,523 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:03:39,537 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:03:39,551 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:03:40,140 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:03:45,010 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:10:09,552 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:10:09,553 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:10:09,566 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:10:09,580 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:10:10,169 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:10:14,722 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:11:40,736 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:12:28,328 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:12:28,329 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:12:28,342 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:12:28,356 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:12:28,946 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:12:33,542 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:15:52,325 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:16:21,508 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:16:21,508 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:16:21,521 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:16:21,535 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:16:22,124 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:16:26,641 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:16:55,748 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:19:07,659 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:19:07,659 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:19:07,672 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:19:07,685 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:19:08,276 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:19:12,829 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:20:11,512 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:21:08,867 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:21:08,867 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:21:08,880 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:21:08,891 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:21:09,479 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:21:14,226 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:29:25,910 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:29:25,910 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:29:25,923 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:29:25,935 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:29:26,525 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:29:31,715 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:36:21,055 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:36:21,055 - GoGRAG - INFO - Load KV llm_response_cache with 0 data
+2025-04-06 22:36:21,068 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:36:21,083 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:36:21,676 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:36:26,150 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:36:55,072 - GoGRAG - INFO - Local query uses 40 entites, 64 relations, 3 text units
+2025-04-06 22:36:55,851 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-06 22:37:30,429 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:38:25,096 - GoGRAG - INFO - Local query uses 40 entites, 56 relations, 4 text units
+2025-04-06 22:38:26,024 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 22:38:42,225 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:39:43,381 - GoGRAG - INFO - Local query uses 40 entites, 111 relations, 3 text units
+2025-04-06 22:39:44,167 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-06 22:40:00,263 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:40:47,315 - GoGRAG - INFO - Local query uses 40 entites, 64 relations, 3 text units
+2025-04-06 22:40:48,216 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-06 22:41:02,232 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:45:46,023 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-06 22:45:46,023 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-06 22:45:46,036 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-06 22:45:46,051 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-06 22:45:46,290 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-06 22:45:50,780 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:46:28,087 - GoGRAG - INFO - Local query uses 40 entites, 50 relations, 4 text units
+2025-04-06 22:46:28,815 - GoGRAG - INFO - Global query uses 54 entites, 40 relations, 3 text units
+2025-04-06 22:46:43,796 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:47:44,744 - GoGRAG - INFO - Local query uses 40 entites, 49 relations, 4 text units
+2025-04-06 22:47:45,511 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-06 22:47:59,979 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:48:42,542 - GoGRAG - INFO - Local query uses 40 entites, 73 relations, 3 text units
+2025-04-06 22:48:43,409 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 22:49:03,966 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:49:59,526 - GoGRAG - INFO - Local query uses 40 entites, 56 relations, 3 text units
+2025-04-06 22:50:00,259 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-06 22:50:16,307 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:51:04,868 - GoGRAG - INFO - Local query uses 40 entites, 45 relations, 3 text units
+2025-04-06 22:51:05,625 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-06 22:51:19,506 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:52:07,881 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 4 text units
+2025-04-06 22:52:08,547 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 22:52:23,468 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:53:03,486 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 3 text units
+2025-04-06 22:53:04,216 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-06 22:53:18,564 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:54:08,255 - GoGRAG - INFO - Local query uses 40 entites, 56 relations, 3 text units
+2025-04-06 22:54:09,008 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-06 22:54:22,102 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:55:07,947 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 3 text units
+2025-04-06 22:55:08,723 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-06 22:55:23,936 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:56:04,146 - GoGRAG - INFO - Local query uses 40 entites, 38 relations, 4 text units
+2025-04-06 22:56:04,874 - GoGRAG - INFO - Global query uses 52 entites, 40 relations, 3 text units
+2025-04-06 22:56:18,455 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:57:04,837 - GoGRAG - INFO - Local query uses 40 entites, 43 relations, 3 text units
+2025-04-06 22:57:06,000 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-06 22:57:19,314 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:59:07,659 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 22:59:57,808 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 3 text units
+2025-04-06 22:59:58,511 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-06 23:00:11,937 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:00:44,862 - GoGRAG - INFO - Local query uses 40 entites, 42 relations, 3 text units
+2025-04-06 23:00:45,591 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-06 23:01:00,629 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:01:35,927 - GoGRAG - INFO - Local query uses 40 entites, 59 relations, 3 text units
+2025-04-06 23:01:36,600 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-06 23:01:52,449 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:03:51,571 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:04:26,381 - GoGRAG - INFO - Local query uses 40 entites, 69 relations, 4 text units
+2025-04-06 23:04:27,126 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-06 23:04:47,400 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:05:25,957 - GoGRAG - INFO - Local query uses 40 entites, 76 relations, 4 text units
+2025-04-06 23:05:26,841 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-06 23:05:42,462 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:06:33,995 - GoGRAG - INFO - Local query uses 40 entites, 40 relations, 3 text units
+2025-04-06 23:06:34,730 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-06 23:06:48,593 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:07:20,040 - GoGRAG - INFO - Local query uses 40 entites, 66 relations, 5 text units
+2025-04-06 23:07:20,910 - GoGRAG - INFO - Global query uses 73 entites, 40 relations, 3 text units
+2025-04-06 23:07:35,157 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:08:06,736 - GoGRAG - INFO - Local query uses 40 entites, 41 relations, 5 text units
+2025-04-06 23:08:07,488 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-06 23:08:22,561 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:09:04,381 - GoGRAG - INFO - Local query uses 40 entites, 44 relations, 3 text units
+2025-04-06 23:09:05,156 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-06 23:09:17,305 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:09:55,833 - GoGRAG - INFO - Local query uses 40 entites, 79 relations, 3 text units
+2025-04-06 23:09:56,582 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-06 23:10:12,989 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:10:44,721 - GoGRAG - INFO - Local query uses 40 entites, 57 relations, 3 text units
+2025-04-06 23:10:45,481 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-06 23:10:59,066 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:11:52,188 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 3 text units
+2025-04-06 23:11:52,849 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-06 23:12:06,593 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:12:48,570 - GoGRAG - INFO - Local query uses 40 entites, 111 relations, 4 text units
+2025-04-06 23:12:49,244 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:13:02,722 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:13:50,401 - GoGRAG - INFO - Local query uses 40 entites, 53 relations, 4 text units
+2025-04-06 23:13:51,144 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:14:05,357 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:14:49,260 - GoGRAG - INFO - Local query uses 40 entites, 72 relations, 4 text units
+2025-04-06 23:14:50,115 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 23:15:08,096 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:15:54,837 - GoGRAG - INFO - Local query uses 40 entites, 59 relations, 3 text units
+2025-04-06 23:15:55,577 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-06 23:16:09,455 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:16:46,621 - GoGRAG - INFO - Local query uses 40 entites, 54 relations, 4 text units
+2025-04-06 23:16:47,384 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-06 23:17:01,006 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:17:42,391 - GoGRAG - INFO - Local query uses 40 entites, 51 relations, 3 text units
+2025-04-06 23:17:43,189 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-06 23:17:56,620 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:18:31,625 - GoGRAG - INFO - Local query uses 40 entites, 122 relations, 3 text units
+2025-04-06 23:18:32,451 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-06 23:18:45,913 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:19:21,845 - GoGRAG - INFO - Local query uses 40 entites, 70 relations, 5 text units
+2025-04-06 23:19:22,603 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 23:19:38,258 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:20:21,342 - GoGRAG - INFO - Local query uses 40 entites, 61 relations, 3 text units
+2025-04-06 23:20:22,201 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-06 23:20:38,022 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:21:09,957 - GoGRAG - INFO - Local query uses 40 entites, 79 relations, 4 text units
+2025-04-06 23:21:10,753 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-06 23:21:25,088 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:22:04,216 - GoGRAG - INFO - Local query uses 40 entites, 44 relations, 3 text units
+2025-04-06 23:22:05,109 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:22:20,562 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:22:57,489 - GoGRAG - INFO - Local query uses 40 entites, 51 relations, 3 text units
+2025-04-06 23:22:58,225 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-06 23:23:11,140 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:23:50,289 - GoGRAG - INFO - Local query uses 40 entites, 55 relations, 3 text units
+2025-04-06 23:23:51,027 - GoGRAG - INFO - Global query uses 72 entites, 40 relations, 3 text units
+2025-04-06 23:24:07,533 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:24:56,063 - GoGRAG - INFO - Local query uses 40 entites, 49 relations, 3 text units
+2025-04-06 23:24:56,799 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:25:14,410 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:25:55,678 - GoGRAG - INFO - Local query uses 40 entites, 56 relations, 3 text units
+2025-04-06 23:25:56,490 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:26:10,050 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:26:58,077 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 3 text units
+2025-04-06 23:26:58,961 - GoGRAG - INFO - Global query uses 54 entites, 40 relations, 3 text units
+2025-04-06 23:27:13,297 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:27:49,519 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 3 text units
+2025-04-06 23:27:50,254 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:28:08,055 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:28:40,434 - GoGRAG - INFO - Local query uses 40 entites, 72 relations, 3 text units
+2025-04-06 23:28:41,258 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-06 23:28:56,558 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:29:41,747 - GoGRAG - INFO - Local query uses 40 entites, 55 relations, 3 text units
+2025-04-06 23:29:42,597 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:29:56,632 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:30:30,523 - GoGRAG - INFO - Local query uses 40 entites, 81 relations, 3 text units
+2025-04-06 23:30:31,322 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:30:44,439 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:31:24,292 - GoGRAG - INFO - Local query uses 40 entites, 52 relations, 3 text units
+2025-04-06 23:31:25,042 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-06 23:31:42,231 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:32:22,944 - GoGRAG - INFO - Local query uses 40 entites, 53 relations, 3 text units
+2025-04-06 23:32:23,700 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-06 23:32:37,773 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:33:35,690 - GoGRAG - INFO - Local query uses 40 entites, 57 relations, 3 text units
+2025-04-06 23:33:36,428 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-06 23:33:51,743 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:34:25,331 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 5 text units
+2025-04-06 23:34:26,186 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 23:34:42,355 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:35:24,849 - GoGRAG - INFO - Local query uses 40 entites, 68 relations, 5 text units
+2025-04-06 23:35:25,581 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:35:42,840 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:36:30,745 - GoGRAG - INFO - Local query uses 40 entites, 64 relations, 3 text units
+2025-04-06 23:36:31,503 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:36:45,472 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:37:28,261 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 4 text units
+2025-04-06 23:37:29,081 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-06 23:37:44,357 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:38:37,099 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 4 text units
+2025-04-06 23:38:37,826 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-06 23:38:52,122 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:39:26,193 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 4 text units
+2025-04-06 23:39:26,873 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-06 23:39:41,897 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:41:28,479 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:42:03,546 - GoGRAG - INFO - Local query uses 40 entites, 55 relations, 3 text units
+2025-04-06 23:42:04,407 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-06 23:42:19,254 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:43:11,769 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 3 text units
+2025-04-06 23:43:12,643 - GoGRAG - INFO - Global query uses 68 entites, 40 relations, 3 text units
+2025-04-06 23:43:27,827 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:44:18,871 - GoGRAG - INFO - Local query uses 40 entites, 86 relations, 4 text units
+2025-04-06 23:44:19,732 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-06 23:44:37,321 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:45:26,609 - GoGRAG - INFO - Local query uses 40 entites, 43 relations, 5 text units
+2025-04-06 23:45:28,762 - GoGRAG - INFO - Global query uses 77 entites, 40 relations, 3 text units
+2025-04-06 23:45:46,680 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:46:31,721 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 4 text units
+2025-04-06 23:46:32,593 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-06 23:46:47,639 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:47:15,129 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 4 text units
+2025-04-06 23:47:16,001 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:47:29,391 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:48:12,297 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 3 text units
+2025-04-06 23:48:13,052 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:48:25,999 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:49:12,662 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 3 text units
+2025-04-06 23:49:13,401 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-06 23:49:26,245 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:50:11,592 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 3 text units
+2025-04-06 23:50:12,341 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-06 23:50:25,986 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:51:03,261 - GoGRAG - INFO - Local query uses 40 entites, 32 relations, 3 text units
+2025-04-06 23:51:04,058 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-06 23:51:18,669 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:52:02,743 - GoGRAG - INFO - Local query uses 40 entites, 32 relations, 3 text units
+2025-04-06 23:52:03,538 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:52:17,856 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:53:03,951 - GoGRAG - INFO - Local query uses 40 entites, 36 relations, 3 text units
+2025-04-06 23:53:04,819 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-06 23:53:17,624 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:54:05,440 - GoGRAG - INFO - Local query uses 40 entites, 50 relations, 3 text units
+2025-04-06 23:54:06,131 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-06 23:54:19,389 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:55:07,978 - GoGRAG - INFO - Local query uses 40 entites, 42 relations, 3 text units
+2025-04-06 23:55:08,740 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-06 23:55:21,155 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:56:02,993 - GoGRAG - INFO - Local query uses 40 entites, 54 relations, 3 text units
+2025-04-06 23:56:03,788 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-06 23:56:16,526 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:57:03,539 - GoGRAG - INFO - Local query uses 40 entites, 41 relations, 3 text units
+2025-04-06 23:57:04,275 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-06 23:57:16,657 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:57:59,674 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 3 text units
+2025-04-06 23:58:00,428 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-06 23:58:15,440 - GoGRAG - INFO - kw_prompt result:
+2025-04-06 23:59:17,842 - GoGRAG - INFO - Local query uses 40 entites, 52 relations, 3 text units
+2025-04-06 23:59:18,531 - GoGRAG - INFO - Global query uses 55 entites, 40 relations, 3 text units
+2025-04-06 23:59:34,120 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:07:01,272 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-07 09:07:01,272 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-07 09:07:01,285 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-07 09:07:01,298 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-07 09:07:01,540 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-07 09:07:07,891 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:07:37,953 - GoGRAG - INFO - Local query uses 40 entites, 92 relations, 3 text units
+2025-04-07 09:07:38,795 - GoGRAG - INFO - Global query uses 54 entites, 40 relations, 3 text units
+2025-04-07 09:07:55,427 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:08:39,196 - GoGRAG - INFO - Local query uses 40 entites, 35 relations, 3 text units
+2025-04-07 09:08:39,986 - GoGRAG - INFO - Global query uses 51 entites, 40 relations, 3 text units
+2025-04-07 09:08:53,983 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:09:17,405 - GoGRAG - INFO - Local query uses 40 entites, 81 relations, 4 text units
+2025-04-07 09:09:18,166 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-07 09:09:32,476 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:10:09,127 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 3 text units
+2025-04-07 09:10:10,013 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-07 09:10:22,935 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:10:55,512 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 3 text units
+2025-04-07 09:10:56,297 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-07 09:11:09,170 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:11:37,089 - GoGRAG - INFO - Local query uses 40 entites, 43 relations, 3 text units
+2025-04-07 09:11:37,825 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-07 09:11:53,117 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:13:40,425 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:14:33,974 - GoGRAG - INFO - Local query uses 40 entites, 69 relations, 3 text units
+2025-04-07 09:14:34,718 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-07 09:14:50,738 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:15:30,082 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 3 text units
+2025-04-07 09:15:30,825 - GoGRAG - INFO - Global query uses 54 entites, 40 relations, 3 text units
+2025-04-07 09:15:42,089 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:17:23,776 - GoGRAG - INFO - Logger initialized for working directory: ../dickens/dickens_mix
+2025-04-07 09:17:23,777 - GoGRAG - INFO - Load KV llm_response_cache with 1 data
+2025-04-07 09:17:23,790 - GoGRAG - INFO - Load KV full_docs with 61 data
+2025-04-07 09:17:23,805 - GoGRAG - INFO - Load KV text_chunks with 579 data
+2025-04-07 09:17:24,044 - GoGRAG - INFO - Loaded graph from ../dickens/dickens_mix/graph_chunk_entity_relation.graphml with 9380 nodes, 7596 edges
+2025-04-07 09:17:28,893 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:18:04,863 - GoGRAG - INFO - Local query uses 40 entites, 59 relations, 3 text units
+2025-04-07 09:18:05,589 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-07 09:18:21,649 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:19:00,664 - GoGRAG - INFO - Local query uses 40 entites, 48 relations, 3 text units
+2025-04-07 09:19:01,557 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-07 09:19:16,295 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:20:10,426 - GoGRAG - INFO - Local query uses 40 entites, 38 relations, 3 text units
+2025-04-07 09:20:11,163 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-07 09:20:24,505 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:21:24,502 - GoGRAG - INFO - Local query uses 40 entites, 70 relations, 5 text units
+2025-04-07 09:21:25,248 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-07 09:21:38,884 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:22:21,894 - GoGRAG - INFO - Local query uses 40 entites, 45 relations, 4 text units
+2025-04-07 09:22:22,640 - GoGRAG - INFO - Global query uses 71 entites, 40 relations, 3 text units
+2025-04-07 09:22:37,624 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:23:10,650 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 3 text units
+2025-04-07 09:23:11,394 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-07 09:23:22,674 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:24:13,654 - GoGRAG - INFO - Local query uses 40 entites, 59 relations, 3 text units
+2025-04-07 09:24:14,404 - GoGRAG - INFO - Global query uses 74 entites, 40 relations, 3 text units
+2025-04-07 09:24:29,836 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:25:08,749 - GoGRAG - INFO - Local query uses 40 entites, 34 relations, 3 text units
+2025-04-07 09:25:09,491 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 09:25:22,410 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:26:12,084 - GoGRAG - INFO - Local query uses 40 entites, 33 relations, 4 text units
+2025-04-07 09:26:12,845 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-07 09:26:27,784 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:27:22,860 - GoGRAG - INFO - Local query uses 40 entites, 42 relations, 3 text units
+2025-04-07 09:27:23,535 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-07 09:27:38,567 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:28:23,734 - GoGRAG - INFO - Local query uses 40 entites, 90 relations, 4 text units
+2025-04-07 09:28:24,479 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-07 09:28:39,932 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:29:19,619 - GoGRAG - INFO - Local query uses 40 entites, 51 relations, 3 text units
+2025-04-07 09:29:20,384 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-07 09:29:34,935 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:30:22,825 - GoGRAG - INFO - Local query uses 40 entites, 35 relations, 3 text units
+2025-04-07 09:30:23,572 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-07 09:30:36,810 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:31:21,037 - GoGRAG - INFO - Local query uses 40 entites, 49 relations, 3 text units
+2025-04-07 09:31:21,769 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-07 09:31:39,238 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:32:28,715 - GoGRAG - INFO - Local query uses 40 entites, 55 relations, 3 text units
+2025-04-07 09:32:29,584 - GoGRAG - INFO - Global query uses 66 entites, 40 relations, 3 text units
+2025-04-07 09:32:44,625 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:33:23,797 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 3 text units
+2025-04-07 09:33:24,612 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 09:33:37,969 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:34:33,177 - GoGRAG - INFO - Local query uses 40 entites, 32 relations, 3 text units
+2025-04-07 09:34:33,916 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-07 09:34:46,427 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:35:30,337 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 3 text units
+2025-04-07 09:35:31,184 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-07 09:35:48,518 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:36:40,792 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 3 text units
+2025-04-07 09:36:41,515 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-07 09:37:06,547 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:37:57,041 - GoGRAG - INFO - Local query uses 40 entites, 44 relations, 4 text units
+2025-04-07 09:37:57,913 - GoGRAG - INFO - Global query uses 62 entites, 40 relations, 3 text units
+2025-04-07 09:38:19,784 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:39:01,155 - GoGRAG - INFO - Local query uses 40 entites, 76 relations, 3 text units
+2025-04-07 09:39:01,888 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-07 09:40:10,480 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:41:18,506 - GoGRAG - INFO - Local query uses 40 entites, 49 relations, 4 text units
+2025-04-07 09:41:19,173 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-07 09:41:45,020 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:42:46,250 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 4 text units
+2025-04-07 09:42:47,130 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 09:43:02,842 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:44:09,937 - GoGRAG - INFO - Local query uses 40 entites, 61 relations, 3 text units
+2025-04-07 09:44:10,622 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 09:44:35,521 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:45:27,011 - GoGRAG - INFO - Local query uses 40 entites, 41 relations, 3 text units
+2025-04-07 09:45:27,746 - GoGRAG - INFO - Global query uses 69 entites, 40 relations, 3 text units
+2025-04-07 09:45:40,606 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:46:16,154 - GoGRAG - INFO - Local query uses 40 entites, 41 relations, 4 text units
+2025-04-07 09:46:16,856 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-07 09:46:42,133 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:47:39,862 - GoGRAG - INFO - Local query uses 40 entites, 40 relations, 3 text units
+2025-04-07 09:47:40,741 - GoGRAG - INFO - Global query uses 67 entites, 40 relations, 3 text units
+2025-04-07 09:47:53,779 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:48:33,015 - GoGRAG - INFO - Local query uses 40 entites, 40 relations, 5 text units
+2025-04-07 09:48:33,766 - GoGRAG - INFO - Global query uses 63 entites, 40 relations, 3 text units
+2025-04-07 09:49:01,555 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:50:02,677 - GoGRAG - INFO - Local query uses 40 entites, 42 relations, 3 text units
+2025-04-07 09:50:03,411 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 09:50:15,802 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:50:50,573 - GoGRAG - INFO - Local query uses 40 entites, 34 relations, 3 text units
+2025-04-07 09:50:51,312 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-07 09:51:15,717 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:52:04,446 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 3 text units
+2025-04-07 09:52:05,176 - GoGRAG - INFO - Global query uses 60 entites, 40 relations, 3 text units
+2025-04-07 09:52:25,712 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:53:29,735 - GoGRAG - INFO - Local query uses 40 entites, 36 relations, 3 text units
+2025-04-07 09:53:30,526 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-07 09:53:57,521 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:54:57,054 - GoGRAG - INFO - Local query uses 40 entites, 52 relations, 3 text units
+2025-04-07 09:54:57,810 - GoGRAG - INFO - Global query uses 65 entites, 40 relations, 3 text units
+2025-04-07 09:55:23,300 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:56:14,303 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 4 text units
+2025-04-07 09:56:15,191 - GoGRAG - INFO - Global query uses 52 entites, 40 relations, 3 text units
+2025-04-07 09:56:28,909 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:57:11,125 - GoGRAG - INFO - Local query uses 40 entites, 47 relations, 4 text units
+2025-04-07 09:57:11,881 - GoGRAG - INFO - Global query uses 53 entites, 40 relations, 3 text units
+2025-04-07 09:57:32,566 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:58:15,627 - GoGRAG - INFO - Local query uses 40 entites, 44 relations, 4 text units
+2025-04-07 09:58:16,291 - GoGRAG - INFO - Global query uses 59 entites, 40 relations, 3 text units
+2025-04-07 09:58:44,176 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 09:59:33,662 - GoGRAG - INFO - Local query uses 40 entites, 44 relations, 4 text units
+2025-04-07 09:59:34,410 - GoGRAG - INFO - Global query uses 61 entites, 40 relations, 3 text units
+2025-04-07 10:00:00,625 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:00:44,079 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 3 text units
+2025-04-07 10:00:44,813 - GoGRAG - INFO - Global query uses 57 entites, 40 relations, 3 text units
+2025-04-07 10:01:09,927 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:02:17,657 - GoGRAG - INFO - Local query uses 40 entites, 39 relations, 3 text units
+2025-04-07 10:02:18,534 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units
+2025-04-07 10:02:36,531 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:03:23,249 - GoGRAG - INFO - Local query uses 40 entites, 37 relations, 3 text units
+2025-04-07 10:03:23,910 - GoGRAG - INFO - Global query uses 56 entites, 40 relations, 3 text units
+2025-04-07 10:03:52,506 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:04:55,392 - GoGRAG - INFO - Local query uses 40 entites, 46 relations, 3 text units
+2025-04-07 10:04:56,071 - GoGRAG - INFO - Global query uses 58 entites, 40 relations, 3 text units
+2025-04-07 10:05:15,101 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:06:04,771 - GoGRAG - INFO - Local query uses 40 entites, 43 relations, 3 text units
+2025-04-07 10:06:05,642 - GoGRAG - INFO - Global query uses 70 entites, 40 relations, 3 text units
+2025-04-07 10:06:28,951 - GoGRAG - INFO - kw_prompt result:
+2025-04-07 10:07:20,012 - GoGRAG - INFO - Local query uses 40 entites, 42 relations, 5 text units
+2025-04-07 10:07:20,700 - GoGRAG - INFO - Global query uses 64 entites, 40 relations, 3 text units

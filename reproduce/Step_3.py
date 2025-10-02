@@ -3,10 +3,6 @@ import json
 from tqdm import tqdm
 import os
 import argparse
-# from PathRAG import PathRAG, QueryParam
-# from PathRAG.llm import gpt_4o_mini_complete
-# from LightRAG import LightRAG, QueryParam
-# from LightRAG.llm import gpt_4o_mini_complete
 from QPathRAG import QPathRAG, QueryParam
 from QPathRAG.llm import gpt_4o_mini_complete
 

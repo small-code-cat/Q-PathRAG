@@ -2,8 +2,8 @@ import os
 import json
 import time
 
-from PathRAG import PathRAG
-from GoGRAG.llm import gpt_4o_mini_complete
+from QPathRAG import QPathRAG
+from QPathRAG.llm import gpt_4o_mini_complete
 
 '''
 利用模型提取知识图谱的能力，将step0中的文档提取成知识图谱
@@ -38,7 +38,7 @@ if not os.path.exists(WORKING_DIR):
 
 
 def initialize_rag():
-    rag = PathRAG(
+    rag = QPathRAG(
         working_dir=WORKING_DIR,
         llm_model_func=gpt_4o_mini_complete,
     )

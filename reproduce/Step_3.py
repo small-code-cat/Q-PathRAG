@@ -10,7 +10,7 @@ import argparse
 from QPathRAG import QPathRAG, QueryParam
 from QPathRAG.llm import gpt_4o_mini_complete
 
-api_key = "sk-2vBnAP4TjiyX2fJnvnazAWXEWuXXqj8TuFIKdp1v5pqq9XmP"
+api_key = ""
 os.environ["OPENAI_API_KEY"] = api_key
 
 '''

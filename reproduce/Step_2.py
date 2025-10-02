@@ -11,9 +11,9 @@ def openai_complete_if_cache(
 ) -> str:
     openai_client = OpenAI(
         # 将这里换成你在便携AI聚合API后台生成的令牌
-        api_key="sk-2vBnAP4TjiyX2fJnvnazAWXEWuXXqj8TuFIKdp1v5pqq9XmP",
+        api_key="",
         # 这里将官方的接口访问地址替换成便携AI聚合API的入口地址
-        base_url="https://api.bianxie.ai/v1"
+        base_url=""
     )
 
     messages = []

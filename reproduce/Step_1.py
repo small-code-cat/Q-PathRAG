@@ -30,7 +30,7 @@ def insert_text(rag, file_path):
 cls = "mix"
 WORKING_DIR = f"../{cls}"
 
-api_key = "sk-2vBnAP4TjiyX2fJnvnazAWXEWuXXqj8TuFIKdp1v5pqq9XmP"
+api_key = ""
 os.environ["OPENAI_API_KEY"] = api_key
 
 if not os.path.exists(WORKING_DIR):
